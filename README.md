@@ -1,6 +1,6 @@
 # Functional To-Do List Manager in OCaml
 
-![OCaml Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/OCaml_logo.svg/1200px-OCaml_logo.svg.png)
+![OCaml Logo](https://github.com/ocaml/ocaml-logo/blob/master/Colour/PNG/colour-icon.png)
 
 This is a command-line application in OCaml for managing to-do lists using functional programming concepts. The to-do list manager allows users to interactively add, view, update, and delete tasks in their to-do list.
 
