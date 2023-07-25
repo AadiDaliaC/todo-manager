@@ -1,0 +1,1 @@
+ocamlc -o todo_manager todo.ml file_io.ml user_input.ml main.ml
